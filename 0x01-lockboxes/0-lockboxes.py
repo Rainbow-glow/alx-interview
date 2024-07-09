@@ -8,7 +8,6 @@ def canUnlockAll(boxes):
     """
     This function will take a list of lists and the content
     of a list will unlock other lists.
-    
     Parameters:
     - boxes (list of lists): A list of lists where each inner list represents
     the keys contained in a box.
